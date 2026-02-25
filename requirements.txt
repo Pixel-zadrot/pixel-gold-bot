@@ -1,0 +1,4 @@
+vkbottle
+requests
+beautifulsoup4
+FunPayAPI
